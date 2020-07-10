@@ -1,0 +1,7 @@
+// actions constants
+export const CHOOSE_LOCATION = "CHOOSE_LOCATION";
+export const CHOOSE_TYPE = "CHOOSE_TYPE";
+export const LOGIN_USER = "LOGIN_USER";
+export const PASSWORD_CHANGED = "PASSWORD_CHANGED";
+export const USERNAME_CHANGED = "USERNAME_CHANGED";
+export const ORDER_PROGRESS_UPDATED = "ORDER_PROGRESS_UPDATED";
